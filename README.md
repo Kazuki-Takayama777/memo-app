@@ -26,7 +26,7 @@ localStorage: メモデータの永続化
 [Kazuki-Takayama777]
 
 ## ライセンス
-[MIT license]
+MIT License
 
 
 
